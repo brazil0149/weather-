@@ -1,0 +1,48 @@
+body {
+  background-color: #1f2123; 
+}
+.wApp {
+}
+h1 {
+  color: #f9f9f9;
+  font-size: 64px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+
+.CurrentTemp {}
+
+
+#toggle {
+  margin-left:48%;
+}
+
+h3 {
+  color: #ffffff;
+  margin-left: 47%;
+  font-size: 44px;
+}
+
+#location {
+  color: #ffffff;
+  font-size: 34px;
+  margin-top: 10 px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+
+#cWeather {
+  color: #ffffff;
+  font-size: 34px;
+  margin-top: 10 px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
+
+#wIcon {
+  color: #ffffff;
+  font-size: 34px;
+  margin-top: 10 px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+}
